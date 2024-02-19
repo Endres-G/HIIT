@@ -1,4 +1,4 @@
-# hiit
+# HIIT
 
 A new Flutter project.
 
