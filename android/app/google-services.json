@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389708112642",
+    "project_id": "hiit-29643",
+    "storage_bucket": "hiit-29643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389708112642:android:d7f11431dfd587e59c981b",
+        "android_client_info": {
+          "package_name": "com.example.hiit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEXvPRQPpT2vIQfDI0sf78chEEGVQdenY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
