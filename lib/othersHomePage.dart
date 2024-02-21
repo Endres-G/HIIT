@@ -8,11 +8,12 @@ class OthersHomePage extends StatefulWidget {
   final String title;
 
   @override
-  State<OthersHomePage> createState() => _MyHomePageState();
+  State<OthersHomePage> createState() => _OthersHomePageState();
 }
 
-class _MyHomePageState extends State<OthersHomePage> {
+class _OthersHomePageState extends State<OthersHomePage> {
   String? userName; // Variável para armazenar o nome do usuário
+  bool valor = false;
 
   @override
   void initState() {

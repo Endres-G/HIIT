@@ -30,6 +30,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_local_notifications: ^16.3.2
+  flutter_timezone: ^1.0.8 # Ou a versão mais recente disponível
+  permission_handler: 11.3.0
+  app_settings: ^5.0.0
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -37,6 +41,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   firebase_core: ^2.25.4
   firebase_auth: ^4.17.4
+  rxdart: ^0.27.7
+  workmanager: ^0.5.2
 
 dev_dependencies:
   flutter_test:
